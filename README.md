@@ -1,4 +1,4 @@
-# Termux-Linux-Runner
+# Termux-xfce4-guide
 Yes you can run linux with a GUI/Desktop on your phone.  
 Tested on Samsung Galaxy A15 5G
 | Functions | Do They Work? |
