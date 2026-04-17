@@ -19,3 +19,7 @@ now your ready to do this
 ```termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session"```  
 this will start a X server running xfce4, now open the termux:x11 app 
 # optinal packages
+Here's 2 packages I recommend you install to enhance your linux experiance on Android  
+1. xfce4 Goodies  
+this allows you to have etra apps and featers like a battery indicator, task manager ect.  
+to install do ```pkg install xfce4-goodies```
