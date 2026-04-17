@@ -19,11 +19,13 @@ now your ready to do this
 ```termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session"```  
 this will start a X server running xfce4, now open the termux:x11 app 
 # Get Sound Working
-You Need PaulseAudio for the sound to work, overwise there will be no sound  
+You Need PaulseAudio for the sound to work, overwise there will be no sound   
 first you will need to install pulseaudio by doing  
 ```pkg install pulseaudio```
-then while the linux X server is running do  
-```pulseaudio --start --exit-idle-time=-1```
+then while the linux X server is running do    
+```pulseaudio --start --exit-idle-time=-1```  
+either in the same tab (if you can type terminal) or swipe right on egde or press back  
+and make a new tab and paste the command in
 # how to fix server auto stoping
 this is mainly caused by the Android Phantom Process Killer  
 to disable it and allow what's called "Child Processes"  
