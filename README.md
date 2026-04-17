@@ -26,7 +26,7 @@ then while the linux X server is running do
 ```pulseaudio --start --exit-idle-time=-1```
 # how to fix server auto stoping
 this is mainly caused by the Android Phantom Process Killer  
-to disable it and allow whats called "Child Processes"  
+to disable it and allow what's called "Child Processes"  
 first you need to enable developer options by Spaming the build number 7 times  
 then you need to go into developer options and scroll till you find "Disable child process restrictions"  
 click it to enable it, and now your done
