@@ -1,10 +1,12 @@
 # Termux-Linux-Runner
 Yes you can run linux with a GUI/Desktop on your phone.
+Tested on Samsung Galaxy A15 5G
 | Functions | Do They Work? |
 |------------|--------------
 | Wi-Fi | ✅ Fully Funtional |
-| Sound | ⚠️ * Reqires PulseAudio Sever *
+| Sound | ⚠️ Reqirues PulseAudio, Sound doesn't Auto Stop when you switch apps
 | Graphics Acceleration | ✅ Yes but complicated to setup
+| Speed | ✅✅ Full Speed Even On A Semi-Low end phone
 # Table Of Contents
 1. [Prerequisites](README.md#prerequisites)
 2. [Installation & Run Guide](README.md#Installation--Run-Guide)
