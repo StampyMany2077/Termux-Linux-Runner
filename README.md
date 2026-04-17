@@ -21,7 +21,7 @@ this will start a X server running xfce4, now open the termux:x11 app
 # Get Sound Working
 You Need PaulseAudio for the sound to work, overwise there will be no sound   
 first you will need to install pulseaudio by doing  
-```pkg install pulseaudio```
+```pkg install pulseaudio```  
 then while the linux X server is running do    
 ```pulseaudio --start --exit-idle-time=-1```  
 either in the same tab (if you can type terminal) or swipe right on egde or press back  
