@@ -10,3 +10,5 @@ first you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)  
 first update and upgrade the turmux packages by doing  
 ```pkg update && pkg upgrade -y```
+then do  
+```pkg install x11-repo -y``` then re update and upgrade packages
