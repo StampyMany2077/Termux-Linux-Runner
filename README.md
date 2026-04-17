@@ -24,7 +24,7 @@ first you will need to install pulseaudio by doing
 ```pkg install pulseaudio```  
 then while the linux X server is running do    
 ```pulseaudio --start --exit-idle-time=-1```  
-either in the same tab (if you can type terminal) or swipe right on egde or press back  
+either in the same tab (if you can type in the terminal) or swipe right on egde or press back  
 and make a new tab and paste the command in
 # how to fix server auto stoping
 this is mainly caused by the Android Phantom Process Killer  
