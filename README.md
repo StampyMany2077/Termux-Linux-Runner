@@ -10,6 +10,7 @@ Yes you can run linux with a GUI/Desktop on your phone.
 2. [Installation & Run Guide](README.md#Installation--Run-Guide)
 3. [Get Sound Working](README.md#get-sound-working)
 4. [How to get Graphic Acceleration](README.md#how-to-get-graphic-acceleration)
+5. [how to fix server auto stoping](README.md#how-to-fix-server-auto-stoping)
 # Prerequisites
 first you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)   
