@@ -9,6 +9,8 @@ Tested on Samsung Galaxy A15 5G
 | Speed | ✅✅ Full Speed Even On A Semi-Low end phone |  
 | Space | 2-4 gb Minimum 
 | Access to Local Files | ✅ yes, just do ```termux-setup-storage```
+| Camera | ❌ No Implementation for camera to work in xfce4
+| Microphone | ❌ No implementation for the mic to work in xfce4
 # Table Of Contents
 1. [Prerequisites](README.md#prerequisites)
 2. [Installation & Run Guide](README.md#Installation--Run-Guide)
